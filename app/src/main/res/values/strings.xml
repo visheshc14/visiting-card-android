@@ -2,4 +2,13 @@
     <string name="app_name">Visiting Card</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_maps">Map</string>
+    <string name="get_started">Get Started</string>
+    <string name="welcome_intro1">Hello!</string>
+    <string name="description_intro1">Welcome to Visiting Card!</string>
+    <string name="welcome_intro2">Location!</string>
+    <string name="description_intro2">Using location in real-time to share digital business cards with a 1 km radius</string>
+    <string name="welcome_intro3">Collaboration!</string>
+    <string name="description_intro3">More collaboration with exciting meet-ups and conferences!</string>
+    <string name="welcome_intro4">People!</string>
+    <string name="description_intro4">Meet more people and grow your knowledge!</string>
 </resources>

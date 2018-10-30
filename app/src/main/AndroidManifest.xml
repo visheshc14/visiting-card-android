@@ -40,6 +40,8 @@
             android:label="@string/title_activity_maps"
             android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
         <activity android:name=".VisitingCard.ViewVisitingCard"></activity>
+        <activity android:name=".IntroScreens.WelcomeActivity"
+            android:theme="@style/Theme.Intro"/>
     </application>
 
 </manifest>
